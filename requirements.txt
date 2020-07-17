@@ -1,0 +1,7 @@
+numpy
+keras
+
+tensorflow
+cmake
+gym
+gym[atari]
